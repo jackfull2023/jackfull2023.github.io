@@ -22,7 +22,7 @@
 
   <url>
     <loc>http://jackfull2023.github.io/MyBlog</loc>
-    <lastmod>2025-06-02</lastmod>
+    <lastmod>2025-06-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,14 +30,14 @@
   
   <url>
     <loc>http://jackfull2023.github.io/MyBlog/tags/%E5%B7%A5%E4%BD%9C/</loc>
-    <lastmod>2025-06-02</lastmod>
+    <lastmod>2025-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://jackfull2023.github.io/MyBlog/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2025-06-02</lastmod>
+    <lastmod>2025-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
