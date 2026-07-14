@@ -2,7 +2,9 @@ title: Jack Full
 description: AcademicPages publications clone
 url: "https://jackfull2023.github.io"
 baseurl: ""
-remote_theme: academicpages/academicpages
+
+remote_theme: academicpages/academicpages.github.io
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
