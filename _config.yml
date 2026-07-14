@@ -23,7 +23,7 @@ repository               : "jackfull2023/jackfull2023.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : false
   name             : "Jack Full"
   pronouns         : # example: "she/her"
   bio              : "记录技术、学习与思考"
