@@ -23,14 +23,14 @@ repository               : "jackfull2023/jackfull2023.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : false
+  avatar           : "profile.jpg"
   name             : "Jack Full"
   pronouns         : # example: "she/her"
   bio              : "记录技术、学习与思考"
   location         :
   employer         :
   uri              : # URL
-  email            :
+  email            : "zaishijizhidian@163.com"
 
   # Academic websites
   academia         : # URL
