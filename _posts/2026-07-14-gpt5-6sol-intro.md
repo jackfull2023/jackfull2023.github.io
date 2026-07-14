@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: single
 title: "简介 gpt5.6sol：面向科研与工程的融合模型"
 date: 2026-07-14 00:00:00 +0800
 categories: blog
+author_profile: true
+read_time: true
+share: true
+related: true
 ---
 
 本文以学院风格简要介绍 gpt5.6sol 的核心理念、能力边界与应用前景，旨在为研究者与工程师提供一个清晰、可验证的起点。
