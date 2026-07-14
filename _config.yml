@@ -1,11 +1,17 @@
 title: Jack Full
-description: AcademicPages publications clone
+description: Jack Full 的个人博客
 url: "https://jackfull2023.github.io"
 baseurl: ""
 
-remote_theme: academicpages/academicpages.github.io
+lang: zh-CN
+timezone: Asia/Shanghai
+
+theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
+
+header_pages:
+  - index.md
+  - publications.md

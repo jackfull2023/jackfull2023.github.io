@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Home
-permalink: /
+title: 首页
 ---
 
-欢迎来到我的学术主页。
+欢迎来到我的个人博客。
+
+这里记录技术、学习和思考。
